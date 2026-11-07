@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "new-model-addition-cwm",
+  "versions": [
+    {
+      "commit": "5baf598d184ce668c685fc05c53a0a663ab6ef70",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:27:14.163294+00:00"
+    }
+  ]
+}
